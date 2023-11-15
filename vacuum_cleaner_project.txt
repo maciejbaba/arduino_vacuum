@@ -3,3 +3,5 @@ project of vacuum, self driving, arduino
 
 
 jxd rk-370 wheel motor
+dc motor works without problem on 3.3v or 5v
+
