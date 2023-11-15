@@ -7,3 +7,9 @@ dc motor works without problem on 3.3v and 5v
 datasheet probably -> https://datasheetspdf.com/pdf/1017724/SHINEMINGTECH/RK-370CA-081050/1
 its either dc 12-30v or dc 6-18v as in the datasheet
 but it works on 3.3v and 5v
+
+
+dc motor for vacuum cleaner is 12v but works on 5v (doesnt have enough power to suck anything), on 3.3v it doesnt work at all
+
+
+the same for the dc motors for brushes, they work on 5v and spin normally a little bit slow will check on 12v later but they works, didnt check on 3.3v
